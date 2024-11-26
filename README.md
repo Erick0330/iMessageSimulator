@@ -1,5 +1,6 @@
 # iMessageSimulator
 A simulation of a message aplication focused on the implementation of the queues data structure
+<img src="Captura de pantalla (38).png">
 
 It is an academic exercise that it must meet the following requirements:
 
