@@ -1,4 +1,4 @@
-# iMessageSimulator
+# 💬iMessageSimulator
 A simulation of a message aplication focused on the implementation of the queues data structure
 
 
